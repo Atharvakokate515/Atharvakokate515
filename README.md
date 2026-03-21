@@ -16,7 +16,6 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Agentic AI systems & multi-agent pipelines<br>🌱 I’m learning: Advanced LLM orchestration, system design & scalable AI architectures<br>👯 I’m looking to collaborate on: AI/ML + Open Source projects<br>💬 Ask me about: Python, FastAPI, LangGraph, ML Systems</p>
 
 ###
 
